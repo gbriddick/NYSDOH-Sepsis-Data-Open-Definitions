@@ -1,7 +1,7 @@
 # NYSDOH-Sepsis-Data-Open-Definitions
 
 
-![Shields.io badge](https://img.shields.io/apm/v/atom-terminal-panel.svg?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/gbriddick/NYSDOH-Sepsis-Data-Open-Definitions/latest/total)
 ![Shields.io badge](https://img.shields.io/apm/dm/atom-terminal-panel.svg?style=flat-square)
 ![Shields.io badge](https://img.shields.io/apm/l/atom-terminal-panel.svg?style=flat-square)
 
