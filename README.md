@@ -3,7 +3,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/gbriddick/NYSDOH-Sepsis-Data-Open-Definitions/latest/total)
 ![GitHub](https://img.shields.io/github/license/gbriddick/NYSDOH-Sepsis-Data-Open-Definitions)
-![GitHub commits since tagged version](https://img.shields.io/github/commits-since/gbriddick/NYSDOH-Sepsis-Data-Open-Definitions/1.0.0)
+![GitHub commits since tagged version](https://img.shields.io/github/commits-since/gbriddick/NYSDOH-Sepsis-Data-Open-Definitions/v1.0.0)
 
 atom-terminal-panel
 ==============
